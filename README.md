@@ -9,5 +9,4 @@ Some of Programming language basic i have learned:
   * SQL
 
 ### Contact me here
-[![Discord Presence](https://lanyard.cnrad.dev/api/376321010674171904)]
-(https://discord.com/users/376321010674171904)
+[![Discord Presence](https://lanyard.cnrad.dev/api/376321010674171904)](https://discord.com/users/376321010674171904)
