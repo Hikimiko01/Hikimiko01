@@ -1,6 +1,6 @@
 * 👋 Hi, I’m Hikimiko01
 * 👀 I’m interested in Front End Developing
-* 🌱 I’m currently learning HTML, JavaScript, and C++
+* 🌱 I’m currently learning Kotlin
 
 Some of Programming language basic i have learned:
   * Python
