@@ -1,8 +1,8 @@
 * 👋 Hi, I’m Hikimiko01
-* 👀 I’m interested in Front End Developing
+* 👀 I’m interested in Mobile Development
 * 🌱 I’m currently learning Kotlin
 
-Some of Programming language basic i have learned:
+Some of Programming language i have learned:
   * Python
   * CPP
   * SQL
